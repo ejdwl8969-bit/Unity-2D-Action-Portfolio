@@ -1,0 +1,49 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE and operating-system files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Generated build diagnostics
+*_BurstDebugInformation_DoNotShip/
+
+# This public portfolio repository intentionally excludes binary game assets.
+/Assets/Assets/
+/Assets/Arts/
+/Assets/Audio/
+/Assets/Fonts/
+/Assets/Materials/
+/Assets/Prefabs/
+/Assets/Resources/
+/Assets/Scenes/
+/Assets/Settings/
+/Assets/Sprites/
+/Assets/TextMesh Pro/
+/Assets/**/*.png
+/Assets/**/*.gif
+/Assets/**/*.ase
+/Assets/**/*.aseprite
+/Assets/**/*.psd
+/Assets/**/*.psb
+/Assets/**/*.wav
+/Assets/**/*.mp3
+/Assets/**/*.ogg
+/Assets/**/*.ttf
+/Assets/**/*.otf
+/Assets/**/*.pdf
+
