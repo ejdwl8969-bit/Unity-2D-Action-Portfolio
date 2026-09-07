@@ -4,7 +4,7 @@
 
 ![보스 전투](Images/BOSS.png)
 
-Unity로 개발한 2D 액션 로그라이트 개인 프로젝트입니다.
+Unity로 개발한 2D 액션 개인 프로젝트입니다.
 
 3종의 무기, 4종의 원소, Room 단위 진행, 그리고 한 번의 Run 동안 유지되는 성장 시스템을 중심으로 구성했습니다.
 
@@ -19,7 +19,7 @@ Unity로 개발한 2D 액션 로그라이트 개인 프로젝트입니다.
 | 언어 | C# |
 | 렌더링 | URP 2D |
 | 플랫폼 | Windows x86_64 |
-| 장르 | 2D Action Roguelite |
+| 장르 | 2D Action |
 | 개발 형태 | 개인 프로젝트 |
 
 ## 게임 구성
@@ -270,7 +270,9 @@ Editor Compile Error: 0
 
 ![원소 선택](Images/ElementSelect.png)
 
-플레이 영상은 추후 추가할 예정입니다.
+### 플레이 영상
+
+[전체 플레이 영상 보기](https://youtu.be/qzJGCgBvjw)
 
 ## Third-party Asset
 

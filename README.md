@@ -275,7 +275,9 @@ Final gameplay behavior and technical decisions were verified through direct tes
 
 ![Element Selection](Images/ElementSelect.png)
 
-Gameplay video will be added later.
+### Gameplay Video
+
+[Watch Full Gameplay Video](https://youtu.be/qzJGCgBvjw)
 
 ## Third-party Assets
 
